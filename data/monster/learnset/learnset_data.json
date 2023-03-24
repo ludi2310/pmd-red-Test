@@ -3,11 +3,11 @@
         "pokemon": "Bulbasaur",
         "levelUpMoves": [
             {
-                "move": "MOVE_TACKLE",
+                "move": "MOVE_VINE_WHIP",
                 "level": 1
             },
             {
-                "move": "MOVE_GROWL",
+                "move": "MOVE_CURSE",
                 "level": 4
             },
             {
@@ -15,36 +15,36 @@
                 "level": 7
             },
             {
-                "move": "MOVE_VINE_WHIP",
+                "move": "MOVE_RAZOR_LEAF",
                 "level": 10
             },
             {
-                "move": "MOVE_POISONPOWDER",
-                "level": 15
+                "move": "MOVE_ACID",
+                "level": 13
             },
             {
                 "move": "MOVE_SLEEP_POWDER",
                 "level": 15
             },
             {
-                "move": "MOVE_RAZOR_LEAF",
-                "level": 20
+                "move": "MOVE_TOXIC",
+                "level": 18
             },
             {
-                "move": "MOVE_SWEET_SCENT",
-                "level": 25
+                "move": "MOVE_SLUDGE",
+                "level": 22
             },
             {
-                "move": "MOVE_GROWTH",
+                "move": "MOVE_MEGA_DRAIN",
+                "level": 28
+            },
+            {
+                "move": "MOVE_ANCIENTPOWER",
                 "level": 32
             },
             {
-                "move": "MOVE_SYNTHESIS",
-                "level": 39
-            },
-            {
                 "move": "MOVE_SOLARBEAM",
-                "level": 46
+                "level": 38
             }
         ],
         "HMTMMoves": [
@@ -75,11 +75,11 @@
         "pokemon": "Ivysaur",
         "levelUpMoves": [
             {
-                "move": "MOVE_TACKLE",
+                "move": "MOVE_VINE_WHIP",
                 "level": 1
             },
             {
-                "move": "MOVE_GROWL",
+                "move": "MOVE_CURSE",
                 "level": 1
             },
             {
@@ -87,7 +87,7 @@
                 "level": 1
             },
             {
-                "move": "MOVE_GROWL",
+                "move": "MOVE_RAZOR_LEAF",
                 "level": 4
             },
             {
@@ -95,11 +95,11 @@
                 "level": 7
             },
             {
-                "move": "MOVE_VINE_WHIP",
+                "move": "MOVE_TOXIC",
                 "level": 10
             },
             {
-                "move": "MOVE_POISONPOWDER",
+                "move": "MOVE_ACID",
                 "level": 15
             },
             {
@@ -107,24 +107,24 @@
                 "level": 15
             },
             {
-                "move": "MOVE_RAZOR_LEAF",
-                "level": 22
+                "move": "MOVE_SLUDGE",
+                "level": 18
             },
             {
-                "move": "MOVE_SWEET_SCENT",
-                "level": 29
+                "move": "MOVE_MEGA_DRAIN",
+                "level": 23
             },
             {
                 "move": "MOVE_GROWTH",
-                "level": 38
+                "level": 28
             },
             {
-                "move": "MOVE_SYNTHESIS",
-                "level": 47
+                "move": "MOVE_ANCIENTPOWER",
+                "level": 32
             },
             {
                 "move": "MOVE_SOLARBEAM",
-                "level": 56
+                "level": 38
             }
         ],
         "HMTMMoves": [
@@ -183,7 +183,7 @@
                 "level": 10
             },
             {
-                "move": "MOVE_POISONPOWDER",
+                "move": "MOVE_TOXIC",
                 "level": 15
             },
             {
@@ -195,24 +195,24 @@
                 "level": 22
             },
             {
-                "move": "MOVE_SWEET_SCENT",
+                "move": "MOVE_ANCIENTPOWER",
                 "level": 29
             },
             {
                 "move": "MOVE_GROWTH",
-                "level": 41
-            },
-            {
-                "move": "MOVE_SYNTHESIS",
-                "level": 53
+                "level": 38
             },
             {
                 "move": "MOVE_SOLARBEAM",
-                "level": 65
+                "level": 48
+            },
+            {
+                "move": "MOVE_SLUDGE_BOMB",
+                "level": 60
             },
             {
                 "move": "MOVE_FRENZY_PLANT",
-                "level": 99
+                "level": 80
             }
         ],
         "HMTMMoves": [
@@ -246,7 +246,7 @@
         "pokemon": "Charmander",
         "levelUpMoves": [
             {
-                "move": "MOVE_GROWL",
+                "move": "MOVE_EMBER",
                 "level": 1
             },
             {
@@ -254,7 +254,7 @@
                 "level": 1
             },
             {
-                "move": "MOVE_EMBER",
+                "move": "MOVE_SMOKESCREEN",
                 "level": 7
             },
             {
@@ -262,27 +262,27 @@
                 "level": 13
             },
             {
-                "move": "MOVE_RAGE",
+                "move": "MOVE_BITE",
+                "level": 16
+            },
+            {
+                "move": "MOVE_FIRE_PUNCH",
                 "level": 19
-            },
-            {
-                "move": "MOVE_SMOKESCREEN",
-                "level": 19
-            },
-            {
-                "move": "MOVE_SCARY_FACE",
-                "level": 25
-            },
-            {
-                "move": "MOVE_FLAMETHROWER",
-                "level": 31
-            },
-            {
-                "move": "MOVE_SLASH",
-                "level": 37
             },
             {
                 "move": "MOVE_DRAGON_RAGE",
+                "level": 23
+            },
+            {
+                "move": "MOVE_FLAMETHROWER",
+                "level": 29
+            },
+            {
+                "move": "MOVE_CRUNCH",
+                "level": 35
+            },
+            {
+                "move": "MOVE_DRAGON_CLAW",
                 "level": 43
             },
             {
@@ -322,7 +322,7 @@
         "pokemon": "Charmeleon",
         "levelUpMoves": [
             {
-                "move": "MOVE_GROWL",
+                "move": "MOVE_EMBER",
                 "level": 1
             },
             {
@@ -334,7 +334,7 @@
                 "level": 1
             },
             {
-                "move": "MOVE_EMBER",
+                "move": "MOVE_SMOKESCREEN",
                 "level": 7
             },
             {
@@ -342,27 +342,27 @@
                 "level": 13
             },
             {
-                "move": "MOVE_RAGE",
+                "move": "MOVE_BITE",
                 "level": 20
             },
             {
-                "move": "MOVE_SMOKESCREEN",
+                "move": "MOVE_FIRE_PUNCH",
                 "level": 20
-            },
-            {
-                "move": "MOVE_SCARY_FACE",
-                "level": 27
-            },
-            {
-                "move": "MOVE_FLAMETHROWER",
-                "level": 34
-            },
-            {
-                "move": "MOVE_SLASH",
-                "level": 41
             },
             {
                 "move": "MOVE_DRAGON_RAGE",
+                "level": 25
+            },
+            {
+                "move": "MOVE_FLAMETHROWER",
+                "level": 33
+            },
+            {
+                "move": "MOVE_CRUNCH",
+                "level": 41
+            },
+            {
+                "move": "MOVE_DRAGON_CLAW",
                 "level": 48
             },
             {
@@ -454,20 +454,20 @@
                 "level": 36
             },
             {
-                "move": "MOVE_SLASH",
+                "move": "MOVE_CRUNCH",
                 "level": 44
             },
             {
-                "move": "MOVE_DRAGON_RAGE",
+                "move": "MOVE_DRAGON_CLAW",
                 "level": 54
             },
             {
-                "move": "MOVE_FIRE_SPIN",
-                "level": 64
+                "move": "MOVE_HEAT_WAVE",
+                "level": 60
             },
             {
                 "move": "MOVE_BLAST_BURN",
-                "level": 99
+                "level": 80
             }
         ],
         "HMTMMoves": [
