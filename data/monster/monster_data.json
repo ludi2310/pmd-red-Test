@@ -3455,7 +3455,7 @@
         "movementSpeed": 1,
         "types": [
             "TYPE_GRASS",
-            "TYPE_POISON"
+            "TYPE_DARK"
         ],
         "friendArea": "JUNGLE",
         "abilities": [
@@ -3604,8 +3604,7 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_ROCK",
-            "TYPE_GROUND"
+            "TYPE_ROCK"
         ],
         "friendArea": "MT_DEEPGREEN",
         "abilities": [
@@ -3649,8 +3648,7 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_ROCK",
-            "TYPE_GROUND"
+            "TYPE_ROCK"
         ],
         "friendArea": "MT_DEEPGREEN",
         "abilities": [
@@ -3703,7 +3701,7 @@
         "dialogueSprites": "0b0000000000000001",
         "types": [
             "TYPE_ROCK",
-            "TYPE_GROUND"
+            "TYPE_DRAGON"
         ],
         "friendArea": "MT_DEEPGREEN",
         "abilities": [
@@ -4051,7 +4049,7 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_NORMAL",
+            "TYPE_FIGHTING",
             "TYPE_FLYING"
         ],
         "friendArea": "WILD_PLAINS",
@@ -4096,8 +4094,8 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_NORMAL",
-            "TYPE_FLYING"
+            "TYPE_FLYING",
+            "TYPE_GROUND"
         ],
         "friendArea": "SAFARI",
         "abilities": [
@@ -4141,8 +4139,8 @@
         "bodySize": 1,
         "movementSpeed": 1,
         "types": [
-            "TYPE_NORMAL",
-            "TYPE_FLYING"
+            "TYPE_FLYING",
+            "TYPE_GROUND"
         ],
         "friendArea": "SAFARI",
         "abilities": [
